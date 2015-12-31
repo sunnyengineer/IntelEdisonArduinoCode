@@ -1,4 +1,4 @@
-// Demo of Grove - Starter Kit V2.0
+
 
 // Reads the value of the Grove - Temperature Sensor, converts it to a Celsius temperature,
 // and prints it to the serial console.
